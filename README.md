@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/static/v1?label=Twitter&message=zhao999ss&color=7BB32E&logo=Twitter) ![](https://img.shields.io/static/v1?label=CSDN&message=zhao999ss&color=7BB32E&logo=CSDN) ![](https://img.shields.io/static/v1?label=wechat&message=zhao999ss&color=7BB32E&logo=wechat) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/Fxxk181126)
 
-I'm **Aonzhi**. I am an software developer currently based in Beijing. Reach out to me on wechat if you'd like to talk ✌️
+I'm **Aonzhi**. I am an creative front-end web developer currently based in Beijing. Reach out to me on wechat if you'd like to talk ✌️
  
 ## 💻 Open Source Work Stats
 ![Fxxk181126's Github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Fxxk181126&show_icons=true)
