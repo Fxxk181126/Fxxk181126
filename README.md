@@ -3,7 +3,7 @@
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-![](https://img.shields.io/static/v1?label=Twitter&message=zhao999ss&color=7BB32E&logo=Twitter) ![](https://img.shields.io/static/v1?label=CSDN&message=zhao999ss&color=7BB32E&logo=CSDN) ![](https://img.shields.io/static/v1?label=wechat&message=zhao999ss&color=7BB32E&logo=wechat) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/Fxxk181126)
+![](https://img.shields.io/static/v1?label=Twitter&message=推特&color=3d7bb2&logo=Twitter) ![](https://img.shields.io/static/v1?label=juejin&message=掘金&color=3d7bb2&logo=juejin) ![](https://img.shields.io/static/v1?label=wechat&message=微信&color=3d7bb2&logo=wechat) ![](https://img.shields.io/static/v1?label=Tik%20Tok&message=抖音&color=3d7bb2&logo=bytedance) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/Fxxk181126) 
 
 I'm **Aonzhi**. I am an creative front-end web developer currently based in Beijing. Reach out to me on wechat if you'd like to talk ✌️
 
