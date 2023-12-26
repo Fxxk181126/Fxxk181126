@@ -23,7 +23,7 @@ I'm **Aonzhi**. I am an creative front-end web developer currently based in Beij
 </details>
 
 
-[juejin]: https://juejin.cn/user/1574920986563927
+[juejin]: https://juejin.cn/user/1574920986563927 "掘金"
 [1]: https://www.zhihu.com/people/Fxxk181126
 [2]: https://segmentfault.com/u/Fxxk181126
 [3]: https://www.v2ex.com/member/Fxxk181126
