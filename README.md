@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/static/v1?label=Twitter&message=推特&color=3d7bb2&logo=Twitter) [![](https://img.shields.io/static/v1?label=juejin&message=掘金&color=3d7bb2&logo=juejin)][juejin] ![](https://img.shields.io/static/v1?label=wechat&message=微信&color=3d7bb2&logo=wechat) ![](https://img.shields.io/static/v1?label=Tik%20Tok&message=抖音&color=3d7bb2&logo=bytedance) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/Fxxk181126)
 
-I'm **Aonzhi**. I am an creative front-end web developer currently based in Beijing. Reach out to me on wechat if you'd like to talk ✌️
+I'm **Zane**. I am an creative front-end web developer currently based in Beijing. Reach out to me on wechat if you'd like to talk ✌️
 
 <!-- ## 💻 Open Source Work Stats -->
 
