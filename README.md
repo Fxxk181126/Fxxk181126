@@ -19,11 +19,21 @@ I'm **Zane**. I am an creative front-end web developer currently based in Beijin
   <summary><h2>🛠️ My Favorite Software and Tools</h2></summary>
 
   <p>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Trae" src="https://img.shields.io/badge/Trae-5C2D91.svg?logo=traefikproxy&logoColor=white"></a>
-      <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4.svg?logo=google-chrome&logoColor=white"></a>
-      <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?logo=obsidian&logoColor=white"></a>
+      <a href="https://openai.com/codex/"><img alt="ChatGPT / Codex" src="https://img.shields.io/badge/ChatGPT%20%7C%20Codex-10A37F.svg?logo=openai&logoColor=white"></a>
+      <a href="https://www.anthropic.com/claude-code"><img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757.svg?logo=claude&logoColor=white"></a>
+      <a href="https://github.com/yetone/magpie"><img alt="Magpie" src="https://img.shields.io/badge/Magpie-1F2937.svg"></a>
+      <a href="https://ccswitch.io/"><img alt="CC Switch" src="https://img.shields.io/badge/CC%20Switch-2F80ED.svg"></a>
+      <a href="https://www.trae.com.cn/"><img alt="Trae" src="https://img.shields.io/badge/Trae-5C2D91.svg"></a>
+      <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white"></a>
+  </p>
+
+  <p>
+      <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
+      <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+      <a href="https://ghostty.org/"><img alt="Ghostty" src="https://img.shields.io/badge/Ghostty-000000.svg?logo=ghostty&logoColor=white"></a>
+      <a href="https://www.google.com/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4.svg?logo=googlechrome&logoColor=white"></a>
+      <a href="https://obsidian.md/"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?logo=obsidian&logoColor=white"></a>
+      <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
   </p>
 </details>
 
