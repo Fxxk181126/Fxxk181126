@@ -10,7 +10,7 @@ I'm **Zane**. I am an creative front-end web developer currently based in Beijin
 
 <!-- ## 💻 Open Source Work Stats -->
 
-![Fxxk181126's Github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Fxxk181126&show_icons=true)
+![Fxxk181126's Github stats](https://stats.tosh1ki.de/api?show_bg=1&username=Fxxk181126&show_icons=true)
 
 <!--
  https://github-readme-stats.vercel.app/api?show_bg=1&username=Fxxk181126&show_icons=true
