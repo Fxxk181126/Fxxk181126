@@ -19,12 +19,12 @@ I'm **Zane**. I am an creative front-end web developer currently based in Beijin
   <summary><h2>🛠️ My Favorite Software and Tools</h2></summary>
 
   <p>
-      <a href="https://openai.com/codex/"><img alt="ChatGPT / Codex" src="https://img.shields.io/badge/ChatGPT%20%7C%20Codex-10A37F.svg?logo=openai&logoColor=white"></a>
+      <a href="https://openai.com/codex/"><img alt="ChatGPT / Codex" src="./assets/badges/chatgpt-codex.svg"></a>
       <a href="https://www.anthropic.com/claude-code"><img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757.svg?logo=claude&logoColor=white"></a>
-      <a href="https://github.com/yetone/magpie"><img alt="Magpie" src="https://img.shields.io/badge/Magpie-1F2937.svg"></a>
-      <a href="https://ccswitch.io/"><img alt="CC Switch" src="https://img.shields.io/badge/CC%20Switch-2F80ED.svg"></a>
-      <a href="https://www.trae.com.cn/"><img alt="Trae" src="https://img.shields.io/badge/Trae-5C2D91.svg"></a>
-      <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white"></a>
+      <a href="https://github.com/yetone/magpie"><img alt="Magpie" src="./assets/badges/magpie.svg"></a>
+      <a href="https://ccswitch.io/"><img alt="CC Switch" src="./assets/badges/cc-switch.svg"></a>
+      <a href="https://www.trae.com.cn/"><img alt="Trae" src="https://img.shields.io/badge/Trae-5C2D91.svg?logo=trae&logoColor=white"></a>
+      <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="./assets/badges/visual-studio-code.svg"></a>
   </p>
 
   <p>
